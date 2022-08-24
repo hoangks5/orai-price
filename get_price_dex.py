@@ -211,4 +211,4 @@ def get_oraidex_price(token):
         'volume24h' : response.json()['tradeVolume']
 
     }
-    return avg
+    return avg 

@@ -155,7 +155,7 @@ def get_kucoin_price(token):
     # Volume24h: USD
     # Pair: USD
     # Timestamp: (100-1000s)
-
+ 
 
 def get_coinmarketcap_price(token):
     url = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest"

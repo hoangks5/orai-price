@@ -188,7 +188,7 @@ def get_coinmarketcap_price(token):
 
 TOKEN_IDS_COINGECKO = {'ORAI': 'oraichain-token'}
 
-
+ 
 
 def get_coingecko_price(token) :
     symbol = TOKEN_IDS_COINGECKO[token]
